@@ -1,4 +1,5 @@
 black
+coverage[toml]
 coveralls
 flake8
 isort
